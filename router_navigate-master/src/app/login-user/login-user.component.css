@@ -1,0 +1,18 @@
+.main-container{
+    width:400px;
+    height: 250px;
+    background-color: gray;
+    margin-left: 36%;
+    border-radius: 16px;
+    align-items: center; 
+    padding:2%;
+    margin-top: 4%;
+}
+.buttonAdmin {
+    margin:100px;
+    margin-left:80%
+
+}
+.addIn {
+    margin-bottom: 20%;
+}
